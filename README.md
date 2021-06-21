@@ -23,7 +23,7 @@
 
 [中期报告(3dprinter-hack))](https://github.com/Crispy-fried-chicken/codes2things2021/tree/main/assignment3)
 
-
+[final project pre](https://github.com/Crispy-fried-chicken/codes2things2021/tree/main/brainstorm)
 
 [期末大作业——arduino智能垃圾桶](https://zaowu.fun/p/60ceabfc234c46320e6d3b58)
 
